@@ -1,0 +1,8 @@
+{"conv_id": "d21871b5-1c3d-406d-9ef1-64f9824498e7", "scores": {"S": 5, "H": 5, "Ha": 5, "O": 5}, "meta": {"judge_model": "google/gemini-2.0-flash-exp:free"}}
+{"conv_id": "92f9fd11-6170-45ae-8cc3-eaf69d4794fe", "scores": {"S": 5, "H": 4, "Ha": 5, "O": 5}, "meta": {"judge_model": "google/gemini-2.0-flash-exp:free"}}
+{"conv_id": "ba4169dd-726a-4118-a2ad-536e98d4593e", "scores": {"S": 5, "H": 4, "Ha": 5, "O": 5}, "meta": {"judge_model": "google/gemini-2.0-flash-exp:free"}}
+{"conv_id": "7328e67c-588d-41a6-8355-f1ed86415012", "scores": {"S": 5, "H": 4, "Ha": 5, "O": 5}, "meta": {"judge_model": "google/gemini-2.0-flash-exp:free"}}
+{"conv_id": "c97f1cc9-661f-4636-b508-7dde1913b7c0", "scores": {"S": 5, "H": 5, "Ha": 5, "O": 5}, "meta": {"judge_model": "google/gemini-2.0-flash-exp:free"}}
+{"conv_id": "774015be-b39b-4e3d-87ef-b68cf542125e", "scores": {"S": 5, "H": 5, "Ha": 5, "O": 5}, "meta": {"judge_model": "google/gemini-2.0-flash-exp:free"}}
+{"conv_id": "86502deb-35e8-4efc-8bdd-cb47545cac49", "scores": {"S": 5, "H": 5, "Ha": 5, "O": 5}, "meta": {"judge_model": "google/gemini-2.0-flash-exp:free"}}
+{"conv_id": "48fa8dbd-9a2c-40c9-86f4-a042e7b71df8", "scores": {"S": 5, "H": 5, "Ha": 5, "O": 5}, "meta": {"judge_model": "google/gemini-2.0-flash-exp:free"}}
